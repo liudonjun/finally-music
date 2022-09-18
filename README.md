@@ -6,6 +6,8 @@ imooc chicken music refactor Vue3 + anyScript(Typescript) + Vite + pinia
 
 手机预览地址：https://msc.ldjun.cn/
 
+个人博客：https://blog.ldjun.cn/
+
 使用 electron 编译成桌面端来运行，可使用以下命令,推荐全程使用 yarn
 
 ```bash
