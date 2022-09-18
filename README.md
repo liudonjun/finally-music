@@ -2,7 +2,7 @@
 
 ### Vue 3 + Typescript + Vite + pinia
 
-imooc checken music refactor Vue3 + anyScript(Typescript) + Vite + pinia
+imooc chicken music refactor Vue3 + anyScript(Typescript) + Vite + pinia
 
 手机预览地址：https://msc.ldjun.cn/
 
