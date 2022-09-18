@@ -4,7 +4,22 @@
 
 imooc checken music refactor Vue3 + anyScript(Typescript) + Vite + pinia
 
-使用组合式API来编写
+手机预览地址：https://msc.ldjun.cn/
+
+使用 electron 编译成桌面端来运行，可使用以下命令,推荐全程使用 yarn
+
+```bash
+npm run dist
+yarn dist
+```
+
+静态页面部署 Vercel 访问慢
+
+https://vercel.com/
+
+使用组合式 API 来编写，如果需要帮助可以通过项目中找到我
+
+#### 项目中使用接口皆网络上收集，并非本人抓取 
 
 ### 代码提交规范
 
@@ -41,4 +56,9 @@ imooc checken music refactor Vue3 + anyScript(Typescript) + Vite + pinia
 ```
 
 ### 效果预览
+
 <img src="./static/prev.png">
+
+### 打赏
+
+<img src="./static/wechat.jpg">
